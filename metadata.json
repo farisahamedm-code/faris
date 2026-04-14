@@ -1,0 +1,6 @@
+{
+  "name": "Snake & Ladder",
+  "description": "A fully-featured Snake and Ladder game with support for multiple players and customizable board sizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
